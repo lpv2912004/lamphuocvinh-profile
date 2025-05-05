@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello,+mình+là+Phước+Vinh!👋;Chill+with+me!+🔥;Always+curious++eager+to+learn.✨&font=Montserrat&color=#8A2BE2&size=22&pause=1000&width=550&height=100&weight=bold" alt="Animated Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello,+I'm+Phuoc+Vinh!👋;Chill+with+me!+🔥;Always+curious++eager+to+learn.✨&font=Montserrat&color=#8A2BE2&size=22&pause=1000&width=550&height=100&weight=bold" alt="Animated Intro" />
 </div>
 
 <br/>
