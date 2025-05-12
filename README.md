@@ -55,14 +55,12 @@
 
 <div align="center">
   <h2 style="color: #FFA07A;">📊 GitHub CHARTS 📊</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=lpv2912004&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lpv2912004&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpv2912004&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lpv2912004&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lpv2912004&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpv2912004&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <br/>
-
-
 
 ## CERTIFICATES
 ### ENGLISH CERTIFICATE
